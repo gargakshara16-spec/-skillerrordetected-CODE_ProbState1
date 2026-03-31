@@ -18,4 +18,4 @@ To set up this project on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/gargakshara16-spec/-skillerrordetected-CODE_ProbState1.git](https://github.com/gargakshara16-spec/-skillerrordetected-CODE_ProbState1.git)
+   git clone [https://github.com/gargakshara16-spec/-skillerrordetected-CODE_ProbState1.git]
