@@ -77,3 +77,4 @@ if __name__ == "__main__":
 
     # Run the dashboard
     show_accuracy_dashboard(model, mock_val_set, device)
+    
