@@ -1,4 +1,5 @@
 # 🚀 AI Trajectory Pro: Path Prediction Dashboard
+"Our project, AI Trajectory Pro, addresses the complex challenge of autonomous path forecasting using a custom-built PyTorch Recurrent Neural Network. By implementing an autoregressive rollout mechanism with integrated vectorized collision detection, we provide high-accuracy movement predictions that prioritize safety. The solution is topped with an interactive Streamlit dashboard, making sophisticated deep learning trajectory analysis accessible and visually intuitive for real-time monitoring."
 
 ## 📄 Project Overview
 This project is an AI-driven solution for predicting agent trajectories developed for the hackathon. It leverages deep learning to forecast future coordinates based on historical movement data, providing a visual interface for collision detection and path analysis.
